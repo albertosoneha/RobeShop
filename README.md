@@ -20,7 +20,6 @@ Explore uma experiência de e-commerce moderna e estilosa, com foco em design re
 - **HTML5**: Estrutura semântica e moderna.
 - **CSS3**: Estilização com animações e design responsivo.
 - **JavaScript**: Funcionalidades dinâmicas e interativas.
-- **[Framework/Libs]**: *()*
 
 ---
 
